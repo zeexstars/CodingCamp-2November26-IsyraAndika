@@ -1,0 +1,13 @@
+{
+  "name": "expense-budget-visualizer",
+  "version": "1.0.0",
+  "description": "A vanilla JavaScript expense tracker with pie chart visualization",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/vitest/vitest.mjs run"
+  },
+  "devDependencies": {
+    "fast-check": "^3.22.0",
+    "vitest": "^2.1.8"
+  }
+}

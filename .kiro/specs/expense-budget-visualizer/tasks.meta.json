@@ -1,0 +1,251 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Create index.html structure": [
+      {
+        "executionId": "059cb029-1b66-447d-8e36-cc07e9657720",
+        "chatSessionId": "sess_464d36f1-ded2-4b61-94d7-071e15b0848a",
+        "timestamp": 1793943477372
+      },
+      {
+        "executionId": "059cb029-1b66-447d-8e36-cc07e9657720",
+        "chatSessionId": "sess_464d36f1-ded2-4b61-94d7-071e15b0848a",
+        "timestamp": 1793944088902
+      }
+    ],
+    "1.2 Create css/styles.css styling": [
+      {
+        "executionId": "059cb029-1b66-447d-8e36-cc07e9657720",
+        "chatSessionId": "sess_464d36f1-ded2-4b61-94d7-071e15b0848a",
+        "timestamp": 1793943477740
+      },
+      {
+        "executionId": "059cb029-1b66-447d-8e36-cc07e9657720",
+        "chatSessionId": "sess_464d36f1-ded2-4b61-94d7-071e15b0848a",
+        "timestamp": 1793944088078
+      }
+    ],
+    "2.1 Implement validation, transaction creation, id generation, and category constants": [
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793944193042
+      },
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793944474536
+      }
+    ],
+    "2.3 Implement transaction deletion and newest-first ordering": [
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793944478691
+      },
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793944702641
+      }
+    ],
+    "2.6 Implement totals, currency formatting, category aggregation, and row mapping": [
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793944737531
+      },
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793945076547
+      },
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793945348437
+      }
+    ],
+    "2.9 Implement chart slice computation": [
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793944737686
+      },
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793945353651
+      },
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793945525897
+      }
+    ],
+    "2.11 Implement serialization and deserialization": [
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793944737865
+      },
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793945531429
+      },
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793945839496
+      }
+    ],
+    "4.1 Implement AppState store and StorageService": [
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793944737993
+      },
+      {
+        "executionId": "68d55ffc-e642-4737-9323-27839c60e912",
+        "chatSessionId": "sess_7863e030-a02f-4b97-bd61-4a6c7a29c255",
+        "timestamp": 1793946783759
+      },
+      {
+        "executionId": "68d55ffc-e642-4737-9323-27839c60e912",
+        "chatSessionId": "sess_7863e030-a02f-4b97-bd61-4a6c7a29c255",
+        "timestamp": 1793947454896
+      }
+    ],
+    "5.1 Implement init bootstrap and transaction list rendering": [
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793944738138
+      },
+      {
+        "executionId": "66a08ba1-473e-42ad-911d-c398940b0551",
+        "chatSessionId": "sess_b6d354af-6069-4a7a-a1f6-c43f5c0bfd74",
+        "timestamp": 1793947905831
+      }
+    ],
+    "5.2 Implement total balance display and SVG pie chart rendering": [
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793944738312
+      },
+      {
+        "executionId": "66a08ba1-473e-42ad-911d-c398940b0551",
+        "chatSessionId": "sess_b6d354af-6069-4a7a-a1f6-c43f5c0bfd74",
+        "timestamp": 1793947920788
+      }
+    ],
+    "5.3 Implement form submission and delete handlers with error display": [
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793944738427
+      }
+    ],
+    "2.2 Write property test for validation partition": [
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793944762822
+      }
+    ],
+    "2.4 Write property test for newest-first ordering": [
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793945076206
+      }
+    ],
+    "2.5 Write property test for delete removing exactly the targeted transaction": [
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793945076405
+      }
+    ],
+    "2.7 Write property test for list row content": [
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793945348011
+      }
+    ],
+    "2.8 Write property test for total balance": [
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793945348249
+      }
+    ],
+    "2.10 Write property test for chart slices": [
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793945526058
+      }
+    ],
+    "2.12 Write property test for serialization round-trip": [
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793945531565
+      }
+    ],
+    "2.13 Write unit tests for logic-layer boundaries and edge cases": [
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793945531742
+      }
+    ],
+    "2. Implement pure logic layer (js/app.js)": [
+      {
+        "executionId": "bbc19bb2-ac15-440a-8964-66f51e2f6efc",
+        "chatSessionId": "sess_359d466e-f900-41e9-a9df-0a86ed15974c",
+        "timestamp": 1793945839804
+      }
+    ],
+    "3. Checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "f9e6d982-d4eb-4bea-b8cd-cf6f6b3545c1",
+        "chatSessionId": "sess_9dc97fbc-7e2c-46d9-85be-a40b7323d88e",
+        "timestamp": 1793945866693
+      },
+      {
+        "executionId": "17933f18-be84-4c83-8442-27fb8b28240c",
+        "chatSessionId": "sess_49dc46b7-e7c7-41f7-aeb4-7181e1b8a639",
+        "timestamp": 1793946082625
+      },
+      {
+        "executionId": "17933f18-be84-4c83-8442-27fb8b28240c",
+        "chatSessionId": "sess_49dc46b7-e7c7-41f7-aeb4-7181e1b8a639",
+        "timestamp": 1793946551231
+      }
+    ],
+    "4. Implement state and storage layer (js/app.js)": [
+      {
+        "executionId": "68d55ffc-e642-4737-9323-27839c60e912",
+        "chatSessionId": "sess_7863e030-a02f-4b97-bd61-4a6c7a29c255",
+        "timestamp": 1793946776269
+      },
+      {
+        "executionId": "68d55ffc-e642-4737-9323-27839c60e912",
+        "chatSessionId": "sess_7863e030-a02f-4b97-bd61-4a6c7a29c255",
+        "timestamp": 1793947455048
+      }
+    ],
+    "5. Implement UI layer (js/app.js)": [
+      {
+        "executionId": "66a08ba1-473e-42ad-911d-c398940b0551",
+        "chatSessionId": "sess_b6d354af-6069-4a7a-a1f6-c43f5c0bfd74",
+        "timestamp": 1793947563532
+      }
+    ]
+  }
+}
